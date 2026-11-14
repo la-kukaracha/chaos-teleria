@@ -1,0 +1,29 @@
+{
+  "format": 1,
+  "serial": 31,
+  "issued_at": "2026-11-14T04:58:25Z",
+  "expires_at": "2027-05-13T04:58:25Z",
+  "servers": [
+    {
+      "id": "node-a",
+      "api": "https://teleria.minislop.studio",
+      "priority": 10
+    },
+    {
+      "id": "node-b",
+      "api": "https://raid.minislop.studio",
+      "priority": 20
+    }
+  ],
+  "downloads": [
+    "https://teleria.minislop.studio/dl/"
+  ],
+  "launcher": {
+    "min_version": "1.0.27",
+    "latest_version": "1.0.27",
+    "url": "https://teleria.minislop.studio/dl/launcher/ChaosTeleriaLauncher.exe",
+    "sha256": "1666ec486cf544d83ca752c68001ae66c225ac552aa70294caeb9ead3e091cf1",
+    "size": 20865942
+  },
+  "message": ""
+}
