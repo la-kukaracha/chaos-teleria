@@ -1,7 +1,7 @@
 {
   "format": 1,
-  "serial": 45,
-  "issued_at": "2026-11-18T14:01:26.426459Z",
+  "serial": 47,
+  "issued_at": "2026-11-18T18:03:33.378939Z",
   "expires_at": "2027-05-14T10:13:26Z",
   "servers": [
     {
@@ -19,11 +19,11 @@
     "https://teleria.minislop.studio/dl/"
   ],
   "launcher": {
-    "min_version": "1.0.39",
-    "latest_version": "1.0.40",
+    "min_version": "1.0.41",
+    "latest_version": "1.0.41",
     "url": "https://teleria.minislop.studio/dl/launcher/ChaosTeleriaLauncher.exe",
-    "sha256": "454f47c487f082c8fb50f4792db1e304cc6f19f35b19046e733583388e86163c",
-    "size": 44118415
+    "sha256": "7d6964bf3836c6837a3aa170ec977ad9d2b0ee015539bf4089a76a33b2da7904",
+    "size": 44121627
   },
   "message": ""
 }
